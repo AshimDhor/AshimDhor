@@ -100,14 +100,6 @@ print(f"Currently researching: {researcher.current_work['thesis']}")
    - ✅ *Accepted at IndoML 2025* (BITS Pilani Hyderabad)
    - 📝 Journal submission under review
 
-3. **Topo-GraT: Learning to Grow with Causal Graph Transformers**
-   - 📋 *Under review at AAAI-26 Student Abstract*
-
-4. **HTG-MIT: AI-Powered Cancer Detection in Medical Images**
-   - 📋 *Under review at AAAI-26 Student Abstract*
-
-5. **REFLEXION: Language Models that Think Twice**
-   - 📋 *Under review at ICLR 2026*
 
 <br/>
 
