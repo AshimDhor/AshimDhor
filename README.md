@@ -1,37 +1,29 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshimDhor&label=Profile%20views&color=0e75b6&style=flat" alt="ashimdhor" />
-</p>```
-
----
-
-### Complete Template to Copy and Paste
-
-Here is the full `README.md` code. Just create your banner GIF, upload it, and then copy and paste this entire template into your `README.md` file.
-
-```markdown
-<p align="center">
-  <!-- UPLOAD YOUR BANNER GIF TO THIS REPOSITORY AND REPLACE THE FILENAME HERE -->
-  <img src="https://raw.githubusercontent.com/AshimDhor/AshimDhor/main/your-banner-name.gif" />
+  <!-- Create a banner.png and upload it to this repository -->
+  <img src="https://raw.githubusercontent.com/AshimDhor/AshimDhor/main/banner.png" alt="Ashim Dhor's GitHub Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashim Dhor</h1>
-<h3 align="center">A passionate Data Science and Engineering student from India</h3>
+<h1 align="center">Hi there, I'm Ashim Dhor 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashim-dhor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim-dhor" height="30" width="40" /></a>
-  <a href="mailto:ashim21@iiserb.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ashim-dhor" height="30" width="40" /></a>
+  <em>Data Science & Engineering Student @ IISER Bhopal | AI in Healthcare & Quantum ML Researcher</em>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashim-dhor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ashim21@iiserb.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on developing trustworthy **Vision-Language Models (VLMs)** for high-stakes cancer diagnostics.
-- 🌱 I’m exploring the intersection of **Quantum Computing and Machine Learning**.
+- 🔭 I’m currently working on developing trustworthy **Vision-Language Models (VLMs)** for high-stakes cancer diagnostics at the **Biomedical Data Science Lab**.
+- 🌱 I’m exploring the intersection of **Quantum Computing and Machine Learning**, particularly in the domain of fraud detection.
 - 👯 I’m looking to collaborate on projects related to deep learning, computer vision, and quantum machine learning.
-- 📫 How to reach me: **ashim21@iiserb.ac.in**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -41,23 +33,32 @@ Here is the full `README.md` code. Just create your banner GIF, upload it, and t
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://qiskit.org/" target="_blank" rel="noreferrer"> <img src="https://qiskit.org/images/qiskit-logo.svg" alt="qiskit" width="40" height="40"/> </a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 🚀 My Projects & Publications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshimDhor&show_icons=true&locale=en&theme=buefy" alt="ashimdhor" /></p>
+You can find my work in the pinned repositories below. Here are some highlights:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshimDhor&theme=buefy" alt="ashimdhor" /></p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshimDhor&show_icons=true&locale=en&layout=compact&theme=buefy" alt="ashimdhor" /> </p>
+- **[Financial fraud detection using quantum graph neural networks](link-to-your-publication)**: Architected a Quantum Graph Neural Network (QGNN) that outperformed classical benchmarks. Our team received the **Best Project and Best Presentation Award** for this work.
+- **[Uncertainty-Aware Deep Learning for Histopathology](link-to-your-project-repo)**: Developed a deep learning framework for gland segmentation with uncertainty quantification to improve diagnostic trust.
+- **[Precision Oxygen Detection with ML Enhancement](link-to-your-project-repo)**: Contributed to a smart air quality monitoring system by adding oxygen detection capabilities and improving sensor accuracy with an ESP32C3 microcontroller.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshimDhor&label=Profile%20views&color=0e75b6&style=flat" alt="ashimdhor" />
-</p>```
+### 📊 My GitHub Stats & Activity
 
-This structure will give you that clean, professional, and modern look you're aiming for. The most important creative step is designing a banner that you're happy with
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshimDhor&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Ashim's Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshimDhor&show_icons=true&theme=dracula&rank_icon=github" alt="Ashim's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshimDhor&theme=dracula" alt="Ashim's GitHub Streak" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AshimDhor&theme=dracula&row=1" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshimDhor/AshimDhor/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
