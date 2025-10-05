@@ -107,6 +107,7 @@ Recognition: 🏆 Best Project & Best Presentation Award
 <img src="https://img.shields.io/badge/Jan_2025-Apr_2025-00E5E5?style=for-the-badge"/>
 </div>
 
+<div align="center">
 ### 🔬 Bachelor's Thesis
 #### Uncertainty-Aware Deep Learning for Gland Segmentation
 
