@@ -339,8 +339,6 @@ Institute Career Development and Placement Council (ICDPC), IISER Bhopal
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimDhor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=10" width="48%" alt="Top Languages"/>
 <img src="https://github-profile-trophy.vercel.app/?username=AshimDhor&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="48%" alt="GitHub Trophies"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshimDhor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF)
-
 </div>
 
 ---
