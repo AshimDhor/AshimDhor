@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
 [![Email](https://img.shields.io/badge/Email-ashimdhor2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashimdhor.github.io-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
 
 </div>
 
