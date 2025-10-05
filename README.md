@@ -104,17 +104,6 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 - 📝 **Status**: Journal submission under review
 - **Contribution**: Dual uncertainty quantification mechanism using UNet++ for improved diagnostic trust
 
-**[3] Topo-GraT: Learning to Grow with Causal Graph Transformers**
-- 📋 **Status**: Under review at AAAI-26 Student Abstract
-- **Innovation**: Novel approach to causal graph learning with topological awareness
-
-**[4] HTG-MIT: AI-Powered Cancer Detection in Medical Images Using Structure-Aware Deep Learning**
-- 📋 **Status**: Under review at AAAI-26 Student Abstract
-- **Focus**: Structure-aware deep learning architectures for medical imaging
-
-**[5] REFLEXION: Language Models that Think Twice for Internalized Self-Correction**
-- 📋 **Status**: Under review at ICLR 2026
-- **Contribution**: Self-correction mechanisms in large language models
 
 ---
 
@@ -151,9 +140,40 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Research Domains
+## 🔬 Research Domains
 
-**Deep Learning & Neural Networks** • **Computer Vision & Medical Image Analysis** • **Quantum Machine Learning & Quantum Computing** • **Uncertainty Quantification & Model Reliability** • **Graph Neural Networks & Topological Data Analysis** • **Vision-Language Models & Multi-modal Learning**
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Neural Networks</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Medical Image Analysis</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Quantum_ML-6929C4?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Quantum Computing</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Uncertainty-00F7F7?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Model Reliability</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-00CED1?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Topological Data Analysis</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Vision_Language_Models-00E5E5?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Multi-modal Learning</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
