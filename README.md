@@ -40,123 +40,73 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 ---
 
 ## 📊 Active Research Initiatives
-
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <div align="center">
 <img src="https://img.shields.io/badge/Status-In_Progress-00F7F7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/May_2025-Present-00CED1?style=for-the-badge"/>
 </div>
-
 ### 🧠 Master's Thesis
 #### Trustworthy Vision-Language Models for Cancer Diagnostics
-
-**🏛️ Institution & Lab**
-```yaml
+🏛️ Institution & Lab```yaml
 Lab: Biomedical Data Science Lab, IISER Bhopal
 Principal Investigator: Dr. Tanmay Basu
-```
-
-**🤝 Collaborative Partners**
-- 🏥 Jawaharlal Nehru Cancer Hospital (JNCHRC), Bhopal
-- 🏥 All India Institute of Medical Sciences (AIIMS), Bhopal
-
-**🎯 Key Contributions**
-- ✅ Developing novel Head & Neck Cancer WSI dataset
-- ✅ Implementing rigorous VLM stress-testing protocols
-- ✅ Analyzing failure modes in high-stakes scenarios
-- ✅ Ensuring model safety and output reliability
-
+🤝 Collaborative Partners
+🏥 Jawaharlal Nehru Cancer Hospital (JNCHRC), Bhopal
+🏥 All India Institute of Medical Sciences (AIIMS), Bhopal
+🎯 Key Contributions
+✅ Developing novel Head & Neck Cancer WSI dataset
+✅ Implementing rigorous VLM stress-testing protocols
+✅ Analyzing failure modes in high-stakes scenarios
+✅ Ensuring model safety and output reliability
 </td>
 <td width="50%" valign="top">
-
 <div align="center">
 <img src="https://img.shields.io/badge/Award-Best_Project-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jun_2023-Sep_2023-6929C4?style=for-the-badge"/>
 </div>
-
 ### ⚛️ Quantum Machine Learning Research
 #### QGNN for Financial Fraud Detection
-
-**🏢 Organization**
+🏢 Organization
 ```yaml
 Program: QWorld Quantum Internship
 Recognition: 🏆 Best Project & Best Presentation Award
 ```
-
-**🔬 Technical Approach**
+🔬 Technical Approach
 - 🔹 Topological Data Analysis (TDA) for graph processing
 - 🔹 Variational Quantum Circuits (VQC) for feature learning
 - 🔹 Quantum advantage validation
-
-**📈 Performance Metrics**
+📈 Performance Metrics
 | Metric | QGNN | Classical | Improvement |
 |--------|------|-----------|-------------|
-| Accuracy | **94.5%** | 92.4% | +2.1% |
-| PR-AUC | **0.85** | 0.77 | +10.4% |
-
+| Accuracy | 94.5% | 92.4% | +2.1% |
+| PR-AUC | 0.85 | 0.77 | +10.4% |
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
+<td colspan="2" valign="top" align="center">
 <div align="center">
 <img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jan_2025-Apr_2025-00E5E5?style=for-the-badge"/>
 </div>
-
 ### 🔬 Bachelor's Thesis
 #### Uncertainty-Aware Deep Learning for Gland Segmentation
-
-**🏛️ Institution & Lab**
+🏛️ Institution & Lab
 ```yaml
 Lab: Biomedical Data Science Lab, IISER Bhopal
 Principal Investigator: Dr. Tanmay Basu
 ```
-
-**🎯 Research Objective**
+🎯 Research Objective
 - 📌 Address overconfident predictions in histopathology images
 - 📌 Quantify model and data uncertainty for diagnostic trust
-
-**⚙️ Technical Implementation**
+⚙️ Technical Implementation
 - 🔧 Architecture: UNet++ backbone
 - 🔧 Dual uncertainty quantification mechanism
 - 🔧 Monte Carlo Dropout & Test-Time Augmentation
-
 <div align="center">
-
 📊 [Presentation](https://drive.google.com/file/d/14-UYETFARjUJjt1PS5saNvpmmWyP5I1k/view) • 📑 [Report](https://drive.google.com/file/d/1n8dQ8ohsgOnDs0BDqvMUeW1FafCQa4gv/view)
-
 </div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💡 Research Impact
-
-**🌟 Research Themes**
-- 🔬 Trustworthy AI Systems
-- 🏥 Healthcare Applications
-- ⚛️ Quantum Computing
-- 📊 Uncertainty Quantification
-
-**📚 Research Output**
-- 1 Published Paper
-- 4+ Under Review
-- 2 Conference Acceptances
-- Multiple Collaborations
-
-**🎯 Future Directions**
-- Scaling VLMs for clinical use
-- Quantum advantage in ML
-- Real-time diagnostic systems
-
-</div>
-
 </td>
 </tr>
 </table>
