@@ -39,7 +39,7 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 
 ---
 
-## 📊 Active Research Initiatives
+##  Active Research Initiatives
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 <img src="https://img.shields.io/badge/May_2025-Present-00CED1?style=for-the-badge"/>
 </div>
 
-<b>🧠 Master's Thesis</b>  
+<b> Master's Thesis</b>  
 <b>Trustworthy Vision-Language Models for Cancer Diagnostics</b>  
 
 🏛️ <b>Institution & Lab</b>  
