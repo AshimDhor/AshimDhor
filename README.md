@@ -311,55 +311,6 @@ Principal Investigator: Dr. Tanmay Basu
 
 ---
 
-## 🏆 Honors & Recognition
-
-<table>
-<tr>
-<td width="100%">
-
-**🥇 Best Project & Best Presentation Award** (2023)  
-QWorld Quantum Internship Program  
-*Project: Quantum Graph Neural Networks for Fraud Detection*
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**🧬 NBEC 2025 Finalist** (Second Round)  
-National Bio Entrepreneurship Competition  
-*Concept: HistoAI - AI-powered diagnostic tool with uncertainty quantification*
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**📊 Reviewer** (August 2025)  
-The AHLI Machine Learning for Health (ML4H) Symposium 2025
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**🏅 Sports Secretary** (2023-2024)  
-IISER Bhopal - Led sports council operations and inter-institute competitions
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**💼 Student Placement Head** (2022-2023)  
-Institute Career Development and Placement Council (ICDPC), IISER Bhopal
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 GitHub Activity & Statistics
 
 <div align="center">
