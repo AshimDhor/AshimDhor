@@ -84,6 +84,32 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Bachelor's Thesis
+**Uncertainty-Aware Deep Learning for Gland Segmentation**
+
+**Duration**: January - April 2025  
+**Lab**: Biomedical Data Science Lab, IISER Bhopal  
+**PI**: Dr. Tanmay Basu
+
+**Objective**:
+- Address overconfident predictions in histopathology images
+- Quantify model and data uncertainty for diagnostic trust
+
+**Technical Implementation**:
+- Architecture: UNet++ backbone
+- Dual uncertainty quantification mechanism
+- Monte Carlo Dropout & Test-Time Augmentation
+
+📊 [Presentation](https://drive.google.com/file/d/14-UYETFARjUJjt1PS5saNvpmmWyP5I1k/view) • 📑 [Report](https://drive.google.com/file/d/1n8dQ8ohsgOnDs0BDqvMUeW1FafCQa4gv/view)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
