@@ -77,10 +77,10 @@ Principal Investigator: Dr. Tanmay Basu
 <img src="https://img.shields.io/badge/Jun_2023-Sep_2023-6929C4?style=for-the-badge"/>
 </div>
 
-<b>⚛️ Quantum Machine Learning Research</b>  
+<b> Quantum Machine Learning Research</b>  
 <b>QGNN for Financial Fraud Detection</b>  
 
-🏢 <b>Organization</b>  
+ <b>Organization</b>  
 <pre>
 Program: QWorld Quantum Internship
 Recognition: 🏆 Best Project & Best Presentation Award
@@ -91,7 +91,7 @@ Recognition: 🏆 Best Project & Best Presentation Award
 - 🔹 Variational Quantum Circuits (VQC) for feature learning  
 - 🔹 Quantum advantage validation  
 
-📈 <b>Performance Metrics</b>  
+ <b>Performance Metrics</b>  
 
 | Metric | QGNN | Classical | Improvement |
 |--------|------|-----------|-------------|
@@ -113,24 +113,24 @@ Recognition: 🏆 Best Project & Best Presentation Award
 <b>🔬 Bachelor's Thesis</b>  
 <b>Uncertainty-Aware Deep Learning for Gland Segmentation</b>  
 
-🏛️ <b>Institution & Lab</b>  
+ <b>Institution & Lab</b>  
 <pre>
 Lab: Biomedical Data Science Lab, IISER Bhopal
 Principal Investigator: Dr. Tanmay Basu
 </pre>
 
-🎯 <b>Research Objective</b>  
-- 📌 Address overconfident predictions in histopathology images  
-- 📌 Quantify model and data uncertainty for diagnostic trust  
+ <b>Research Objective</b>  
+ Address overconfident predictions in histopathology images  
+ Quantify model and data uncertainty for diagnostic trust  
 
-⚙️ <b>Technical Implementation</b>  
-- 🔧 Architecture: UNet++ backbone  
-- 🔧 Dual uncertainty quantification mechanism  
-- 🔧 Monte Carlo Dropout & Test-Time Augmentation  
+ <b>Technical Implementation</b>  
+ Architecture: UNet++ backbone  
+ Dual uncertainty quantification mechanism  
+ Monte Carlo Dropout & Test-Time Augmentation  
 
 <div align="center">
-📊 <a href="https://drive.google.com/file/d/14-UYETFARjUJjt1PS5saNvpmmWyP5I1k/view">Presentation</a> • 
-📑 <a href="https://drive.google.com/file/d/1n8dQ8ohsgOnDs0BDqvMUeW1FafCQa4gv/view">Report</a>
+ <a href="https://drive.google.com/file/d/14-UYETFARjUJjt1PS5saNvpmmWyP5I1k/view">Presentation</a> • 
+ <a href="https://drive.google.com/file/d/1n8dQ8ohsgOnDs0BDqvMUeW1FafCQa4gv/view">Report</a>
 </div>
 
 </td>
@@ -140,7 +140,7 @@ Principal Investigator: Dr. Tanmay Basu
 
 ---
 
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Principal Investigator: Dr. Tanmay Basu
 
 ---
 
-## 🔬 Research Domains
+##  Research Domains
 
 <div align="center">
 
@@ -217,7 +217,7 @@ Principal Investigator: Dr. Tanmay Basu
 ---
 
 
-## 📈 GitHub Activity & Statistics
+##  GitHub Activity & Statistics
 
 <div align="center">
 
@@ -231,7 +231,7 @@ Principal Investigator: Dr. Tanmay Basu
 
 ---
 
-## 🤝 Research Collaboration
+## Research Collaboration
 
 <div align="center">
 
@@ -278,7 +278,7 @@ Safety Testing
 
 <div align="center">
 
-### 💭 Research Philosophy
+###  Research Philosophy
 
 > *"The continuous cycle of scientific inquiry and innovation:*  
 > *Formulate → Design → Research → Analyze → Publish → Iterate"*
@@ -291,7 +291,7 @@ Safety Testing
 
 <br/><br/>
 
-**⭐ [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
+** [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
 
 <br/>
 
