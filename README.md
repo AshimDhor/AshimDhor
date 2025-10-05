@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshimDhor/AshimDhor/main/banner.png" alt="Ashim Dhor's GitHub Banner">
+</p>
+```*(You'll need to create a `banner.png` file and upload it to your `AshimDhor` repository for this link to work).*
+
+### 2. Use Professional Badges for Links
+
+Instead of plain text links, use badges. They are clean, professional, and a standard in the tech community.
+
+**Replace your "How to reach me" line with this:**
+
+```markdown
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashim-dhor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ashim21@iiserb.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+
+
 ### Hi there, I'm Ashim Dhor 👋
 
 I am a Data Science and Engineering student at the Indian Institute of Science Education and Research (IISER) Bhopal, with a passion for applying machine learning to solve real-world problems.
