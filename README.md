@@ -140,26 +140,6 @@ Principal Investigator: Dr. Tanmay Basu
 
 ---
 
-## 📝 Publications & Preprints
-
-### Published
-
-**[1] Financial fraud detection using quantum graph neural networks**
-- Innan, N., Sawaika, A., **Dhor, A.**, Dutta, S., Thota, S., Gokal, H., Patel, N., Khan, M.A., Theodonis, I., Bennai, M.
-- *Quantum Machine Intelligence* (2024)
-- 🔗 [View Publication](https://link.springer.com/journal/42484)
-
-### Accepted / Under Review
-
-**[2] An Uncertainty-Aware Deep Learning Model for Gland Segmentation in Histopathology Images**
-- ✅ **Accepted**: IndoML 2025 (The Sixth Indian Symposium on Machine Learning, BITS Pilani Hyderabad)
-- 📝 **Status**: Journal submission under review
-- **Contribution**: Dual uncertainty quantification mechanism using UNet++ for improved diagnostic trust
-
-
-
----
-
 ## 🛠️ Technical Expertise
 
 <div align="center">
