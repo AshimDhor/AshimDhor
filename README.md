@@ -179,17 +179,7 @@ Principal Investigator: Dr. Tanmay Basu
 - 📝 **Status**: Journal submission under review
 - **Contribution**: Dual uncertainty quantification mechanism using UNet++ for improved diagnostic trust
 
-**[3] Topo-GraT: Learning to Grow with Causal Graph Transformers**
-- 📋 **Status**: Under review at AAAI-26 Student Abstract
-- **Innovation**: Novel approach to causal graph learning with topological awareness
 
-**[4] HTG-MIT: AI-Powered Cancer Detection in Medical Images Using Structure-Aware Deep Learning**
-- 📋 **Status**: Under review at AAAI-26 Student Abstract
-- **Focus**: Structure-aware deep learning architectures for medical imaging
-
-**[5] REFLEXION: Language Models that Think Twice for Internalized Self-Correction**
-- 📋 **Status**: Under review at ICLR 2026
-- **Contribution**: Self-correction mechanisms in large language models
 
 ---
 
