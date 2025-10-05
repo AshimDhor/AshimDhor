@@ -31,7 +31,7 @@
 
 ## 🔬 Research Profile
 
-I am an AI researcher at IISER Bhopal's Biomedical Data Science Lab, focusing on developing trustworthy AI systems for high-stakes applications. My research spans Vision-Language Models, Quantum Machine Learning, and Medical Image Analysis, with a particular emphasis on uncertainty quantification and model reliability.
+I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on developing trustworthy AI systems for high-stakes applications. My research spans Vision-Language Models, Quantum Machine Learning, and Medical Image Analysis, with a particular emphasis on uncertainty quantification and model reliability.
 
 **Current Focus**: Developing trustworthy Vision-Language Models for cancer diagnostics in collaboration with JNCHRC Bhopal and AIIMS Bhopal, including the creation of a novel Head & Neck Cancer WSI dataset.
 
