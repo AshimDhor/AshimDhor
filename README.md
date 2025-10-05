@@ -389,6 +389,5 @@ Safety Testing
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/AshimDhor/AshimDhor/output/github-contribution-grid-snake-dark.svg)
 
 </div>
