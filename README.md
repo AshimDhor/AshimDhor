@@ -5,7 +5,7 @@ I am a Data Science and Engineering student at the Indian Institute of Science E
 - 🔭 I’m currently working on developing trustworthy Vision-Language Models (VLMs) for high-stakes cancer diagnostics at the **Biomedical Data Science Lab**.
 - 🌱 I’m exploring the intersection of Quantum Computing and Machine Learning, particularly in the domain of fraud detection.
 - 👯 I’m looking to collaborate on projects related to deep learning, computer vision, and quantum machine learning.
-- 📫 How to reach me: [ashimdhor2003@gmail.com](mailto:ashimdhor2003@gmail.com) | [ashim21@iiserb.ac.in](mailto:ashim21@iiserb.ac.in) | [LinkedIn](https://www.linkedin.com/in/ashim-dhor/) | [Website](ashimdhor.github.io)
+- 📫 How to reach me: [ashimdhor2003@gmail.com](mailto:ashimdhor2003@gmail.com) | [ashim21@iiserb.ac.in](mailto:ashim21@iiserb.ac.in) | [LinkedIn](https://www.linkedin.com/in/ashim-dhor/) | [Website](https://ashimdhor.github.io/)
 
 ---
 
