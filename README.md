@@ -20,10 +20,18 @@
 
 **IISER Bhopal, India** | **BS-MS in Data Science & Engineering** | **Developing Trustworthy VLMs for Cancer Diagnostics**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
-[![Email](https://img.shields.io/badge/Email-ashimdhor2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashimdhor.github.io-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
+<a href="https://www.linkedin.com/in/ashim-dhor/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+</a>
+<a href="mailto:ashimdhor2003@gmail.com" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" height="40" alt="Email"/>
+</a>
+<a href="https://ashimdhor.github.io" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Portfolio"/>
+</a>
+<a href="https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="40" alt="Google Scholar"/>
+</a>
 
 </div>
 
