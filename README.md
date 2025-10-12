@@ -1,6 +1,6 @@
 <div align="center">
 
-# ASHIM DHOR
+# Hi, I'm Ashim Dhor
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=AI+Researcher;Building+Trustworthy+AI+Systems;Quantum+ML+%2B+Medical+Imaging+%2B+Computer+Vision)](https://git.io/typing-svg)
 
@@ -41,44 +41,38 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 
 ---
 
-##  Technical Expertise
+## 💻 Technical Expertise
 
 <div align="center">
 
 ### Programming Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,r" />
 
 ### ML/AI Libraries & Tools
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sklearn,opencv" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/>
+
+### Quantum Computing
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" height="48" alt="Qiskit"/>
 
 ### Development & Deployment
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,linux,latex,vscode" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="48" alt="Jupyter"/>
 
 </div>
 
 ---
 
-##  Research Domains
+## 🎯 Research Domains
 
 <div align="center">
 
@@ -117,7 +111,7 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 
 ---
 
-## Research Collaboration
+## 🤝 Research Collaboration
 
 <div align="center">
 
@@ -164,7 +158,7 @@ Safety Testing
 
 <div align="center">
 
-###  Research Philosophy
+### 🌟 Research Philosophy
 
 > *"The continuous cycle of scientific inquiry and innovation:*  
 > *Formulate → Design → Research → Analyze → Publish → Iterate"*
@@ -177,7 +171,7 @@ Safety Testing
 
 <br/><br/>
 
-** [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
+**💫 [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
 
 <br/>
 
