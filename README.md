@@ -1,162 +1,185 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashim Dhor
+# ASHIM DHOR
 
-### 🧬 AI Researcher @ IISER Bhopal | Building Trustworthy Medical AI Systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=AI+Researcher;Building+Trustworthy+AI+Systems;Quantum+ML+%2B+Medical+Imaging+%2B+Computer+Vision)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Vision-Language+Models;Quantum+Machine+Learning;Medical+Image+Analysis;Uncertainty+Quantification" alt="Typing SVG" />
-
-<br>
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
-
-</div>
-
----
-
-### 🔬 About Me
-
-```python
-class AIResearcher:
-    def __init__(self):
-        self.name = "Ashim Dhor"
-        self.role = "MS Research Scholar"
-        self.institution = "IISER Bhopal"
-        self.lab = "Biomedical Data Science Lab"
-        self.research_areas = [
-            "Vision-Language Models",
-            "Quantum Machine Learning", 
-            "Medical Image Analysis",
-            "Uncertainty Quantification"
-        ]
-        self.current_focus = "Trustworthy VLMs for Cancer Diagnostics"
-        
-    def current_collaborations(self):
-        return ["JNCHRC Bhopal", "AIIMS Bhopal"]
-```
-
-🎯 **Currently:** Developing uncertainty-aware vision-language models for head & neck cancer diagnosis and creating novel whole slide imaging datasets for cancer research.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-#### ML/AI & Quantum
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-### 🧪 Research Areas
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-#### 🏥 Medical AI
-- Histopathology Image Analysis
-- Vision-Language Models
-- Cancer Diagnostics Systems
-- Multi-modal Medical Imaging
-
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Research-Medical_AI-00F7F7?style=flat-square&labelColor=0D1117"/>
 </td>
-<td width="50%">
-
-#### ⚛️ Quantum ML
-- Quantum Graph Neural Networks
-- Variational Quantum Circuits
-- Quantum Algorithms
-- Hybrid Classical-Quantum Models
-
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Focus-Trustworthy_AI-00CED1?style=flat-square&labelColor=0D1117"/>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤖 Trustworthy AI
-- Uncertainty Quantification
-- Model Interpretability
-- Safety-Critical Systems
-- Reliability Assessment
-
-</td>
-<td width="50%">
-
-#### 👁️ Computer Vision
-- Whole Slide Image Analysis
-- Multi-Instance Learning
-- Attention Mechanisms
-- Image Segmentation
-
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Domain-Quantum_ML-00E5E5?style=flat-square&labelColor=0D1117"/>
 </td>
 </tr>
 </table>
 
----
+**IISER Bhopal, India** | **BS-MS in Data Science & Engineering** | **Developing Trustworthy VLMs for Cancer Diagnostics**
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshimDhor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimDhor&layout=compact&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
+[![Email](https://img.shields.io/badge/Email-ashimdhor2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashimdhor.github.io-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
 
 </div>
 
 ---
 
-### 🤝 Let's Collaborate!
+## 🔬 Research Profile
 
-I'm always open to collaborating on research projects involving:
+I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on developing trustworthy AI systems for high-stakes applications. My research spans Vision-Language Models, Quantum Machine Learning, and Medical Image Analysis, with a particular emphasis on uncertainty quantification and model reliability.
 
-- 🔬 Medical AI & Computational Pathology
-- ⚛️ Quantum Machine Learning Applications
-- 🧠 Trustworthy & Interpretable AI Systems
-- 👁️ Computer Vision & Multi-modal Learning
+**Current Focus**: Developing trustworthy Vision-Language Models for cancer diagnostics in collaboration with JNCHRC Bhopal and AIIMS Bhopal, including the creation of a novel Head & Neck Cancer WSI dataset.
 
-**Feel free to reach out for research discussions or collaboration opportunities!**
+**Research Philosophy**: *Building AI systems that are not just accurate, but trustworthy.*
+
+
+
+---
+
+##  Technical Expertise
+
+<div align="center">
+
+### Programming Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### ML/AI Libraries & Tools
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+### Development & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+##  Research Domains
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Neural Networks</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Medical Image Analysis</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Quantum_ML-6929C4?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Quantum Computing</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Uncertainty-00F7F7?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Model Reliability</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-00CED1?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Topological Data Analysis</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Vision_Language_Models-00E5E5?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Multi-modal Learning</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Research Collaboration
+
+<div align="center">
+
+**Open to collaborative research in:**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>Medical AI</strong><br/><br/>
+Histopathology Analysis<br/>
+Diagnostic Systems<br/>
+VLM Development
+</td>
+<td align="center" width="25%">
+<strong>Quantum ML</strong><br/><br/>
+Quantum Graph Networks<br/>
+Variational Circuits<br/>
+Quantum Algorithms
+</td>
+<td align="center" width="25%">
+<strong>Computer Vision</strong><br/><br/>
+Multi-modal Learning<br/>
+Image Segmentation<br/>
+Object Detection
+</td>
+<td align="center" width="25%">
+<strong>Trustworthy AI</strong><br/><br/>
+Uncertainty Quantification<br/>
+Model Reliability<br/>
+Safety Testing
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashim-dhor/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📫 Get in Touch
+###  Research Philosophy
 
-[![Email](https://img.shields.io/badge/Email-ashimdhor2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
+> *"The continuous cycle of scientific inquiry and innovation:*  
+> *Formulate → Design → Research → Analyze → Publish → Iterate"*
 
-<br>
+**Building trustworthy AI, one experiment at a time**
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshimDhor&color=blue&style=for-the-badge&label=Profile+Views)
+<br/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=AshimDhor&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**⭐ Building Trustworthy AI for Healthcare, One Model at a Time ⭐**
+<br/><br/>
+
+** [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
+
+<br/>
+
 
 </div>
