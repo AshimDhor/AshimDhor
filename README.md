@@ -2,7 +2,7 @@
 
 # ASHIM DHOR
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C;Building+Trustworthy+AI+Systems;Quantum+ML+%2B+Medical+Imaging+%2B+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=AI+Researcher;Building+Trustworthy+AI+Systems;Quantum+ML+%2B+Medical+Imaging+%2B+Computer+Vision)](https://git.io/typing-svg)
 
 <table align="center">
 <tr>
