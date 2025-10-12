@@ -1,114 +1,172 @@
 <div align="center">
 
-# ASHIM DHOR
+# Ashim Dhor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=AI+Researcher;Building+Trustworthy+AI+Systems;Quantum+ML+%2B+Medical+Imaging+%2B+Computer+Vision)](https://git.io/typing-svg)
+**AI Researcher | MS Student at IISER Bhopal**
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Research-Medical_AI-00F7F7?style=flat-square&labelColor=0D1117"/>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Focus-Trustworthy_AI-00CED1?style=flat-square&labelColor=0D1117"/>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Domain-Quantum_ML-00E5E5?style=flat-square&labelColor=0D1117"/>
-</td>
-</tr>
-</table>
+*Building Trustworthy AI Systems for High-Stakes Healthcare Applications*
 
-**IISER Bhopal, India** | **BS-MS in Data Science & Engineering** | **Developing Trustworthy VLMs for Cancer Diagnostics**
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
-[![Email](https://img.shields.io/badge/Email-ashimdhor2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashimdhor.github.io-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
+[![Portfolio](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=About.me&logoColor=white)](https://ashimdhor.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
 
 </div>
 
 ---
 
-## 🔬 Research Profile
+## 🎓 Academic Profile
 
-I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on developing trustworthy AI systems for high-stakes applications. My research spans Vision-Language Models, Quantum Machine Learning, and Medical Image Analysis, with a particular emphasis on uncertainty quantification and model reliability.
+**Current Position:** MS Research Scholar, Data Science & Engineering  
+**Institution:** Indian Institute of Science Education and Research (IISER) Bhopal  
+**Research Lab:** Biomedical Data Science Lab  
+**Research Focus:** Trustworthy Vision-Language Models for Cancer Diagnostics
 
-**Current Focus**: Developing trustworthy Vision-Language Models for cancer diagnostics in collaboration with JNCHRC Bhopal and AIIMS Bhopal, including the creation of a novel Head & Neck Cancer WSI dataset.
-
-**Research Philosophy**: *Building AI systems that are not just accurate, but trustworthy.*
-
-
+**Collaborations:**
+- Jawahar Lal Nehru Cancer Hospital & Research Centre (JNCHRC), Bhopal
+- All India Institute of Medical Sciences (AIIMS), Bhopal
 
 ---
 
-##  Technical Expertise
+## 🔬 Research Interests
+
+My research centers on developing reliable and interpretable AI systems for critical healthcare applications, with emphasis on:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Core Research Areas                                        │
+├─────────────────────────────────────────────────────────────┤
+│  → Vision-Language Models for Medical Imaging               │
+│  → Uncertainty Quantification in Deep Learning              │
+│  → Quantum Machine Learning & Algorithms                    │
+│  → Computational Pathology & Histopathology Analysis        │
+│  → Trustworthy AI & Model Reliability                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Current Projects:**
+- Developing uncertainty-aware VLMs for head & neck cancer diagnosis
+- Creating novel whole slide imaging (WSI) datasets for cancer research
+- Investigating quantum graph neural networks for molecular analysis
+
+---
+
+## 📚 Publications & Preprints
+
+<div align="left">
+
+> **[Your publications will be listed here]**  
+> Include conference papers, journal articles, and preprints with links to arXiv/DOI
+
+</div>
+
+---
+
+## 🛠️ Technical Stack
 
 <div align="center">
 
-### Programming Languages & Frameworks
+### Core Research Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### ML/AI Libraries & Tools
+### Research Infrastructure
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-### Development & Deployment
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+### Specialized Libraries
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 </div>
 
 ---
 
-##  Research Domains
+## 💡 Research Methodology
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Problem Identification] --> B[Literature Review]
+    B --> C[Methodology Design]
+    C --> D[Implementation]
+    D --> E[Experimentation]
+    E --> F[Analysis & Validation]
+    F --> G[Publication]
+    G --> H[Iteration]
+    H --> A
+```
+
+</div>
+
+---
+
+## 🤝 Collaboration & Service
+
+**Open to Collaboration On:**
+
+- **Medical AI:** Histopathology analysis, diagnostic systems, multi-modal medical imaging
+- **Quantum ML:** Quantum graph networks, variational quantum circuits, hybrid classical-quantum models
+- **Trustworthy AI:** Uncertainty quantification, model interpretability, safety-critical AI systems
+- **Computer Vision:** Whole slide image analysis, multi-instance learning, attention mechanisms
+
+**Academic Service:**
+- Peer review for [conferences/journals]
+- Research mentorship for undergraduate students
+- Open-source contributions to medical AI tools
+
+---
+
+## 🎯 Research Philosophy
+
+<div align="center">
+
+> *"In high-stakes applications like healthcare, AI systems must not only be accurate—*  
+> *they must be trustworthy, interpretable, and aware of their own limitations."*
+
+<br>
+
+**Principles I Follow:**
+- **Rigor:** Thorough experimentation and statistical validation
+- **Reproducibility:** Open methodologies and well-documented code
+- **Ethics:** Responsible AI development with patient safety in mind
+- **Collaboration:** Interdisciplinary research with clinicians and domain experts
+
+</div>
+
+---
+
+## 📊 Research Impact
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Neural Networks</b></sub>
+<img src="https://img.shields.io/badge/Publications-[N]-blue?style=for-the-badge"/>
+<br/><sub><b>Peer-Reviewed Papers</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Medical Image Analysis</b></sub>
+<img src="https://img.shields.io/badge/Citations-[N]-green?style=for-the-badge"/>
+<br/><sub><b>Google Scholar</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Quantum_ML-6929C4?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Quantum Computing</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Uncertainty-00F7F7?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Model Reliability</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Graph_Neural_Networks-00CED1?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Topological Data Analysis</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Vision_Language_Models-00E5E5?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Multi-modal Learning</b></sub>
+<img src="https://img.shields.io/badge/h--index-[N]-orange?style=for-the-badge"/>
+<br/><sub><b>Citation Index</b></sub>
 </td>
 </tr>
 </table>
@@ -117,69 +175,24 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 
 ---
 
-## Research Collaboration
+## 📫 Contact & Links
 
 <div align="center">
 
-**Open to collaborative research in:**
+For research inquiries, collaboration opportunities, or academic discussions:
 
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>Medical AI</strong><br/><br/>
-Histopathology Analysis<br/>
-Diagnostic Systems<br/>
-VLM Development
-</td>
-<td align="center" width="25%">
-<strong>Quantum ML</strong><br/><br/>
-Quantum Graph Networks<br/>
-Variational Circuits<br/>
-Quantum Algorithms
-</td>
-<td align="center" width="25%">
-<strong>Computer Vision</strong><br/><br/>
-Multi-modal Learning<br/>
-Image Segmentation<br/>
-Object Detection
-</td>
-<td align="center" width="25%">
-<strong>Trustworthy AI</strong><br/><br/>
-Uncertainty Quantification<br/>
-Model Reliability<br/>
-Safety Testing
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/📧_ashimdhor2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
 
-<br/>
+[![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en)
+[![Portfolio](https://img.shields.io/badge/🌐_Research_Website-00D9FF?style=for-the-badge&logo=About.me&logoColor=white)](https://ashimdhor.github.io)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-dhor/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashim-dhor/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
+<br>
 
-</div>
+<sub>MS Student in Data Science & Engineering | IISER Bhopal | Biomedical Data Science Lab</sub>
 
----
+<br>
 
-<div align="center">
-
-###  Research Philosophy
-
-> *"The continuous cycle of scientific inquiry and innovation:*  
-> *Formulate → Design → Research → Analyze → Publish → Iterate"*
-
-**Building trustworthy AI, one experiment at a time**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AshimDhor&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-** [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
-
-<br/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=AshimDhor&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
