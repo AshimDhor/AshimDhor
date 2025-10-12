@@ -20,20 +20,6 @@
 
 **IISER Bhopal, India** | **BS-MS in Data Science & Engineering** | **Developing Trustworthy VLMs for Cancer Diagnostics**
 
-<a href="https://www.linkedin.com/in/ashim-dhor/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-</a>
-<a href="mailto:ashimdhor2003@gmail.com" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" height="40" alt="Email"/>
-</a>
-<a href="https://ashimdhor.github.io" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Portfolio"/>
-</a>
-<a href="https://scholar.google.com/citations?user=KnN80Q4AAAAJ&hl=en" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="40" alt="Google Scholar"/>
-</a>
-
-</div>
 
 ---
 
