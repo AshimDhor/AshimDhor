@@ -216,21 +216,6 @@ Principal Investigator: Dr. Tanmay Basu
 
 ---
 
-
-##  GitHub Activity & Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AshimDhor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshimDhor&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="48%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimDhor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=10" width="48%" alt="Top Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=AshimDhor&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="48%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## Research Collaboration
 
 <div align="center">
