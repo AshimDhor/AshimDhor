@@ -9,15 +9,13 @@
 
 ---
 
-## 💻 Technical Expertise
+##  Technical Skills
 
 <div align="center">
 
-### Programming Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,r" />
 
-### ML/AI Libraries & Tools
 
 <img src="https://skillicons.dev/icons?i=sklearn,opencv" />
 <br/>
@@ -26,11 +24,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="scikit-learn"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/>
 
-### Quantum Computing
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" height="48" alt="Qiskit"/>
 
-### Development & Deployment
 
 <img src="https://skillicons.dev/icons?i=docker,git,linux,latex,vscode" />
 <br/>
@@ -40,23 +36,13 @@
 
 ---
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashim-dhor/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimdhor2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashimdhor.github.io)
-
-</div>
 
 ---
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AshimDhor&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-**💫 [AshimDhor](https://github.com/AshimDhor) • Building Trustworthy AI for Healthcare • One Model at a Time ⭐**
 
 <br/>
 
