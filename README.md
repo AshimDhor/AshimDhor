@@ -23,18 +23,6 @@
 
 ---
 
-## 🔬 Research Profile
-
-I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on developing trustworthy AI systems for high-stakes applications. My research spans Vision-Language Models, Quantum Machine Learning, and Medical Image Analysis, with a particular emphasis on uncertainty quantification and model reliability.
-
-**Current Focus**: Developing trustworthy Vision-Language Models for cancer diagnostics in collaboration with JNCHRC Bhopal and AIIMS Bhopal, including the creation of a novel Head & Neck Cancer WSI dataset.
-
-**Research Philosophy**: *Building AI systems that are not just accurate, but trustworthy.*
-
-
-
----
-
 ## 💻 Technical Expertise
 
 <div align="center">
@@ -65,47 +53,6 @@ I am an MS student at IISER Bhopal's Biomedical Data Science Lab, focusing on de
 </div>
 
 ---
-
-## 🎯 Research Domains
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Neural Networks</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Medical Image Analysis</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Quantum_ML-6929C4?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Quantum Computing</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Uncertainty-00F7F7?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Model Reliability</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Graph_Neural_Networks-00CED1?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Topological Data Analysis</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Vision_Language_Models-00E5E5?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Multi-modal Learning</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 Research Collaboration
 
 <div align="center">
 
@@ -149,15 +96,6 @@ Safety Testing
 </div>
 
 ---
-
-<div align="center">
-
-### 🌟 Research Philosophy
-
-> *"The continuous cycle of scientific inquiry and innovation:*  
-> *Formulate → Design → Research → Analyze → Publish → Iterate"*
-
-**Building trustworthy AI, one experiment at a time**
 
 <br/>
 
