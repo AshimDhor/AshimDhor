@@ -7,7 +7,6 @@
 **IISER Bhopal, India** | **BS-MS in Data Science & Engineering** |
 
 
----
 
 ##  Technical Skills
 
