@@ -40,39 +40,6 @@
 
 ---
 
-<div align="center">
-
-**Open to collaborative research in:**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>Medical AI</strong><br/><br/>
-Histopathology Analysis<br/>
-Diagnostic Systems<br/>
-VLM Development
-</td>
-<td align="center" width="25%">
-<strong>Quantum ML</strong><br/><br/>
-Quantum Graph Networks<br/>
-Variational Circuits<br/>
-Quantum Algorithms
-</td>
-<td align="center" width="25%">
-<strong>Computer Vision</strong><br/><br/>
-Multi-modal Learning<br/>
-Image Segmentation<br/>
-Object Detection
-</td>
-<td align="center" width="25%">
-<strong>Trustworthy AI</strong><br/><br/>
-Uncertainty Quantification<br/>
-Model Reliability<br/>
-Safety Testing
-</td>
-</tr>
-</table>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashim-dhor/)
