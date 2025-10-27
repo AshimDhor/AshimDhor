@@ -4,20 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=AI+Researcher;Building+Trustworthy+AI+Systems;Quantum+ML+%2B+Medical+Imaging+%2B+Computer+Vision)](https://git.io/typing-svg)
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Research-Medical_AI-00F7F7?style=flat-square&labelColor=0D1117"/>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Focus-Trustworthy_AI-00CED1?style=flat-square&labelColor=0D1117"/>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Domain-Quantum_ML-00E5E5?style=flat-square&labelColor=0D1117"/>
-</td>
-</tr>
-</table>
-
 **IISER Bhopal, India** | **BS-MS in Data Science & Engineering** | **Developing Trustworthy VLMs for Cancer Diagnostics**
 
 
